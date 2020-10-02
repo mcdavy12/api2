@@ -1,15 +1,16 @@
 .card-deck {
-    position: absolute;
+    position: relative;
     display: inline-block;
 }
 
 .heading {
+    position: absolute;
     text-align: center;
     color: white;
 }
 
 form {
-    position: absolute; 
+    position: relative; 
     left: 550px;
     top: 16px;
 }
@@ -22,7 +23,7 @@ form {
 
 
 .card-body {
-    position: absolute;
+    position: relative;
     background-color: rgb(236, 169, 169);
     width: 185px;
     left: 750px;
