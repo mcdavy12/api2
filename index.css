@@ -12,13 +12,13 @@
 form {
     position: relative; 
     left: 550px;
-    top: 16px;
+    top: 50px;
 }
 
 .image {
     position: absolute;
     left: 350px;
-    top: 50px;
+    top: 150px;
 }
 
 
