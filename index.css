@@ -1,45 +1,42 @@
 .card-deck {
     position: relative;
-    display: inline-block;
 }
 
 .heading {
-    position: absolute;
     text-align: center;
     color: white;
 }
 
 form {
     position: relative; 
-    left: 550px;
-    top: 50px;
+    top: 16px;
+    margin-left: 40%;
 }
 
 .image {
-    position: absolute;
-    left: 350px;
-    top: 150px;
+    position: relative;
+    top:16px;
+    margin-left: 40%;
 }
 
 
 .card-body {
-    position: relative;
-    background-color: rgb(236, 169, 169);
+    position: absolute;
+    background-color: white;
     width: 185px;
-    left: 750px;
-    bottom: 115px;
+    margin-left: 80%;
+    top: 25px;
 }
 
 
 .card-Title1 {
     position: relative;
-    text-align: center;
-    left: 850px;
+    color: rgb(150, 125, 125);
 }
 
 .card-Text1 {
     position: relative;
-    text-align: center;
-    left: 850px;
+    top: 25px;
+    color: rgb(150, 125, 125);
 }
 
