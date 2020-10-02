@@ -17,7 +17,6 @@ form {
 .image {
     position: absolute;
     left: 350px;
- z-index: -1;
  bottom: 5px;
 }
 
