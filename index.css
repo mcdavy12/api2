@@ -1,5 +1,5 @@
 .card-deck {
-    position: relative;
+    position: absolute;
     display: inline-block;
 }
 
@@ -9,7 +9,7 @@
 }
 
 form {
-    position: relative; 
+    position: absolute; 
     left: 550px;
     top: 16px;
 }
@@ -22,7 +22,7 @@ form {
 
 
 .card-body {
-    position: relative;
+    position: absolute;
     background-color: rgb(236, 169, 169);
     width: 185px;
     left: 750px;
@@ -31,13 +31,13 @@ form {
 
 
 .card-Title1 {
-    position: relative;
+    position: absolute;
     text-align: center;
     left: 850px;
 }
 
 .card-Text1 {
-    position: relative;
+    position: absolute;
     text-align: center;
     left: 850px;
 }
