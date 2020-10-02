@@ -1,4 +1,4 @@
-const baseURL = 'https://api.coinlayer.com/api/';
+const baseURL = 'http://api.coinlayer.com/api/';
 const key = 'ea2d17431fb2e3120ef5a7f4074082c6';
 let url;
 
